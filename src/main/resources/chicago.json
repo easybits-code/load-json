@@ -1,0 +1,32 @@
+{
+"city": "Chicago",
+"state": "Illinois",
+"population": 2746388,
+"area_km2": 606.1,
+"founded_year": 1837,
+"tourist_attractions": [
+"Millennium Park","Navy Pier","The Art Institute of Chicago","Willis Tower"
+],
+"neighborhoods": [
+{
+"name": "River North",
+"population": 16000,
+"description": "Known for its art galleries, vibrant nightlife, and high-end restaurants."
+},
+{
+"name": "Wicker Park",
+"population": 25000,
+"description": "Famous for its independent boutiques, trendy cafes, and lively music scene."
+},
+{
+"name": "Lincoln Park",
+"population": 65000,
+"description": "A leafy residential neighborhood featuring the famous Lincoln Park Zoo and lakefront parks."
+},
+{
+"name": "Pilsen",
+"population": 43000,
+"description": "A cultural hub with a strong Mexican heritage, known for its colorful murals and authentic cuisine."
+}
+]
+}
